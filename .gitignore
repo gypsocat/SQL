@@ -1,0 +1,10 @@
+bootstrap/
+build/
+make-build/
+.cache/*
+.vscode/*
+.clangd
+*.o
+*.elf
+*.bkp
+*.pdf
